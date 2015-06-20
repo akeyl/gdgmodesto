@@ -9,7 +9,7 @@
 </head>
 <body>
   <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">GDG Modesto</a>
+    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Add Report</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#">Add Report</a></li>
         <li><a href="#">Search Report</a></li>
