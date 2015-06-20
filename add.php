@@ -8,20 +8,8 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Add Report</a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="#">Add Report</a></li>
-        <li><a href="#">Search Report</a></li>
-      </ul>
+<?php include "menu.php";?>
 
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="#">Add Report</a></li>
-        <li><a href="#">Search Report</a></li>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-    </div>
-  </nav>
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
