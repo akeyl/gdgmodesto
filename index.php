@@ -16,14 +16,28 @@
   <div class="container">
     <div class="section">
 
-
+<form action="#">
+    <div class="file-field input-field">
+      <input class="file-path validate" type="text"/>
+      <div class="btn green darken-2">
+        <span>File</span>
+        <input type="file" />
       </div>
-
+          <p class="black-text text-lighten-4">Please select a image to upload.</p>
     </div>
-    <br><br>
+  </form>
+        
 
+  </div>
+</div>
+
+
+  <div class="container">
     <div class="section">
 
+
+<a class="#ffc107 amber waves-effect waves-light btn-large center">REPORT NOW!!</a>
+  
     </div>
   </div>
 
